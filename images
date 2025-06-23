@@ -1,0 +1,9 @@
+<script>start("/Applications/MAMP/htdocs/Login/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bg.jpg","bg.jpg",0,6528,"6.4 kB",1750656672,"23/06/2025, 11:01:12");</script>
+<script>addRow("img1.jpg","img1.jpg",0,449711,"439 kB",1750656681,"23/06/2025, 11:01:21");</script>
+<script>addRow("img2.jpg","img2.jpg",0,138972,"136 kB",1750656716,"23/06/2025, 11:01:56");</script>
+<script>addRow("img3.jpg","img3.jpg",0,71223,"69.6 kB",1750656718,"23/06/2025, 11:01:58");</script>
+<script>addRow("img4.jpg","img4.jpg",0,370425,"362 kB",1750656722,"23/06/2025, 11:02:02");</script>
+<script>addRow("photo.jpg","photo.jpg",0,1453562,"1.4 MB",1749489352,"09/06/2025, 22:45:52");</script>
+<script>addRow("signup.jpg","signup.jpg",0,14053,"13.7 kB",1750657926,"23/06/2025, 11:22:06");</script>
